@@ -1,0 +1,8 @@
+{
+  "name": "MedTrack Pro: Hospital Management Ecosystem",
+  "description": "A comprehensive end-to-end hospital management system with specialized portals for Patients, Doctors, Administrators, and Laboratory staff, featuring appointment scheduling, prescription tracking, and AI-powered medical summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
